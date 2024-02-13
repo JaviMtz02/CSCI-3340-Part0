@@ -1,2 +1,2 @@
-require '/app'
+require './App Root/app'
 run MyApp
